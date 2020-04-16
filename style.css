@@ -1,0 +1,14 @@
+#calc{
+  color: #fff;
+  text-decoration: none; 
+  user-select: none; 
+  background: rgb(62, 255, 62); 
+  padding: .7em 1.5em; 
+  outline: none; 
+  border: 0px;
+  font-family: Verdana;
+}
+
+#calc:hover {
+  background: greenyellow; 
+}
